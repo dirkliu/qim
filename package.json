@@ -1,0 +1,19 @@
+{
+  "name": "qim",
+  "version": "1.0.0",
+  "description": "7月学手机端web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkliu/qim.git"
+  },
+  "author": "Jason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkliu/qim/issues"
+  },
+  "homepage": "https://github.com/dirkliu/qim#readme"
+}
