@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/dirkliu/qim/issues"
   },
-  "homepage": "https://github.com/dirkliu/qim#readme"
+  "homepage": "https://github.com/dirkliu/qim#readme",
+  "devDependencies": {
+    "koa": "^2.5.1",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "mpvue": "^1.0.13",
+    "vue": "^2.5.16"
+  }
 }
