@@ -20,7 +20,8 @@
     "eslint": "^5.0.1",
     "koa": "^2.5.1",
     "mocha": "^5.2.0",
-    "rollup": "^0.62.0"
+    "rollup": "^0.62.0",
+    "rollup-plugin-json": "^3.0.0"
   },
   "dependencies": {
     "mpvue": "^1.0.13",
