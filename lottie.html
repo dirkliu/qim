@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>lottie web</title>
+    <script src="https://cdnjs.com/libraries/lottie-web" type="text/javascript"></script>
+    
+  </head>
+  <body>
+    <div id="lottie"></div>
+<script>
+  var animation = lottie.loadAnimation({
+  container: document.getElementById('lottie'), // Required
+  path: 'animate.json', // Required
+  renderer: 'html', // Required
+  loop: true, // Optional
+  autoplay: true, // Optional
+  name: "Hello World", // Name for future reference. Optional.
+})
+</script>
+  </body>
+</html>
